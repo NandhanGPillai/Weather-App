@@ -10,6 +10,17 @@ The motivation behind creating the "Hey Gurunandhan, What's the weather?" stems 
 
 Progaramming Language: Python
 
+# Tools and Libraries
+
+1. tkinter: The tkinter library is used to create the graphical user interface (GUI) for the application.
+2. requests: The requests library is employed to make HTTP GET requests to the OpenWeatherMap API. It facilitates communication with external servers, enabling the application to fetch 
+   weather data.
+3. json: The json library is utilized to parse the JSON response received from the OpenWeatherMap API. It enables the extraction and manipulation of weather data retrieved from the API.
+4. Open Weather Map API: The project integrates with the OpenWeatherMap API to retrieve real-time weather data for specified city names. The API provides weather-related information, 
+   including temperature, humidity, wind speed, sunrise, sunset, and more.
+
+
+
 
 
 
